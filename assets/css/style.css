@@ -1,0 +1,90 @@
+body {
+    font-family: Arial;
+}
+
+.form_film {
+    margin: auto;
+}
+
+#search {
+    color: white;
+    background-color: #2196F3;
+    border: 1px solid grey;
+    padding: 11px;
+    font-size: 18px;
+    width: 10%;
+    cursor: pointer;
+}
+
+#search:hover {
+    background-color: #1b7ac7;
+}
+
+#input_film {
+    border: 1px solid grey;
+    padding: 11px;
+    font-size: 18px;
+    width: 50%;
+    background: #f1f1f1;
+    float: left;
+}
+
+#movies_searchable { /* essayer de faire defiler sur la droite sans que le reste bouge*/
+    margin-top: 20px;
+    overflow-x: auto;
+}
+
+.section {
+    width: 100%;
+    white-space: nowrap;
+    overflow: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+}
+
+img {
+    transition: transform .2s;
+    display: inline-block;
+}
+
+img:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+    margin-left: 0 40px;
+}
+
+#list {
+    margin-top: 20px;
+}
+
+#list_shifted {
+
+}
+
+#movie_list {
+}
+
+.film_name {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.film_name:hover {
+    color: hotpink;
+}
+
+.previous {
+    float: left;
+}
+
+.previous_ {
+    display: none;
+}
+
+.next {
+    float: right;
+}
+
+.next_ {
+    display: none;
+}

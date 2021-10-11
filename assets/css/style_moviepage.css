@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+    color: white;
+    background-color: black;
+}
+
+.page_info {
+    margin: 5% 10% 10% 5%;
+}
+
+.title_info {
+    top: 10%;
+    left: 0%;
+    font-size: 120%;
+    margin: 10% 45% 0% 7%;
+    background-color: rgba(0,0,0,0.4);
+    position: absolute;
+}
+
+#backgnd {
+    width: 100%;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: blur(4px);
+}
+
+.main_img {
+    width: 24%;
+    height: auto;
+    top: 27%;
+    left: 60%;
+    position: absolute;
+}
+
+.title {
+    position: absolute;
+    top: 10%;
+    font-size: 340%;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.average {
+    margin: 7% 0% 0% 0%;
+    font-size: 130%;
+}
+
+.credits {
+    font-size: 90%;
+}
