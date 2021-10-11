@@ -66,7 +66,7 @@ function print_movie()
             console.log("Error : ", err);
         })
         nbpage++;
-    }// QUESTION : plutot preferer mettre valeur en variable (ce que j'arrive pas a faire) ou valeur en dure et on s'en blk
+    }
     console.log("nbpage (apres) = ", nbpage);
 }
 
