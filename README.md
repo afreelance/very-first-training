@@ -1,1 +1,1 @@
-https://afreelance.github.io/training-old-/
+https://afreelance.github.io/very-first-training/
