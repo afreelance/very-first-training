@@ -1,1 +1,1 @@
-https://afreelance.github.io/very-first-training/
+https://alan-longchamps.github.io/very-first-training/
